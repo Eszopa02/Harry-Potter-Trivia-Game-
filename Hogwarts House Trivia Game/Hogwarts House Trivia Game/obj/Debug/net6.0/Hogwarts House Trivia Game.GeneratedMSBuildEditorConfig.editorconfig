@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Hogwarts_House_Trivia_Game
+build_property.ProjectDir = C:\Users\sylwi\OneDrive\Desktop\Programming - 2020\Hogwarts House Trivia Game\Hogwarts House Trivia Game\
